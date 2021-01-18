@@ -9,7 +9,7 @@ Travel and tourism offer individuals a glimpse of the world. Weather conditions 
 [WeatherPy_vacation.csv]( https://github.com/cmmgw/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation.csv)
 * **Jupyter Notebook Files:**: 
 [Weather_Database.ipynb](https://github.com/cmmgw/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb), 
-[Vacation_Search.ipynb](https://github.com/cmmgw/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb)
+[Vacation_Search.ipynb](https://github.com/cmmgw/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb),
 [Vacation_Itinerary.ipynb]( https://github.com/cmmgw/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
 
 * **Python**: Python v3.7.6, Dependencies: Pandas, Matplotlib, CitiPy, SciPy, Python Requests, APIs, JSON Traversals
